@@ -1,1 +1,1 @@
-# audits
+Peckshield: Seeing as we are building a completely new protocol from the ground up, we decided to acquired an audit from Peckshield to assure ourselves and the community that the protocol we have developed works as it should. Peckshield pointed out 2 medium issues, 3 low and 1 informational, which have all been fixed. We would like to thank Peckshield for their hard work on this audit and keeping our users safe.
